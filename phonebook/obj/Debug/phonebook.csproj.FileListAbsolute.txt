@@ -1,0 +1,10 @@
+c:\alltamrin\phonebook\phonebook\bin\Debug\Telbook.mdf
+c:\alltamrin\phonebook\phonebook\bin\Debug\Telbook_log.ldf
+c:\alltamrin\phonebook\phonebook\bin\Debug\phonebook.exe
+c:\alltamrin\phonebook\phonebook\bin\Debug\phonebook.pdb
+c:\alltamrin\phonebook\phonebook\obj\Debug\phonebook.csprojResolveAssemblyReference.cache
+c:\alltamrin\phonebook\phonebook\obj\Debug\phonebook.Form1.resources
+c:\alltamrin\phonebook\phonebook\obj\Debug\phonebook.Properties.Resources.resources
+c:\alltamrin\phonebook\phonebook\obj\Debug\phonebook.csproj.GenerateResource.Cache
+c:\alltamrin\phonebook\phonebook\obj\Debug\phonebook.exe
+c:\alltamrin\phonebook\phonebook\obj\Debug\phonebook.pdb
